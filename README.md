@@ -89,7 +89,7 @@ The vector basis for each component are
 $$
 |000\rangle, |001\rangle, |010\rangle, |011\rangle, |100\rangle, |101\rangle, |110\rangle, |111\rangle
 $$
-The qubit index in a basis starts to count from rightmost to leftmost, as
+The qubit index in a basis starts to count from leftmost to rightmost, as
 $$
 |q_0q_1q_2\rangle
 $$
